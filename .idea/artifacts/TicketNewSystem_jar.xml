@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TicketNewSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TicketNewSystem_jar</output-path>
+    <root id="archive" name="TicketNewSystem.jar">
+      <element id="module-output" name="TicketSystem" />
+    </root>
+  </artifact>
+</component>
